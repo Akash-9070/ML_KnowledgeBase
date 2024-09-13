@@ -52,7 +52,7 @@ Explore the content freely, clone the repository, and utilize the code and resou
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ML-KnowledgeBase.git
+git clone https://github.com/Akash-9070/ML-KnowledgeBase.git
 
 # Navigate to the directory
 cd ML-KnowledgeBase
